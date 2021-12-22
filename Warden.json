@@ -1,0 +1,58 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "name": "Warden",
+        "author": "EggVonel"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/420716465990139904\/922313613014859816\/colwar2.png",
+        "overlay_alpha": 160,
+        "blur_radius": 25
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/909244240729632778\/922336625328025660\/KoPubBatang-Regular.ttf",
+        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/909244240729632778\/922336625328025660\/KoPubBatang-Regular.ttf",
+        "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/909244240729632778\/922336625328025660\/KoPubBatang-Regular.ttf",
+        "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/909244240729632778\/922336625328025660\/KoPubBatang-Regular.ttf",
+        "roboto_medium_numbers": "https:\/\/cdn.discordapp.com\/attachments\/909244240729632778\/922336625328025660\/KoPubBatang-Regular.ttf",
+        "whitney_semibold": "https:\/\/cdn.discordapp.com\/attachments\/909244240729632778\/922336625328025660\/KoPubBatang-Regular.ttf",
+        "whitney_medium": "https:\/\/cdn.discordapp.com\/attachments\/909244240729632778\/922336625328025660\/KoPubBatang-Regular.ttf",
+        "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/909244240729632778\/922336625328025660\/KoPubBatang-Regular.ttf",
+        "sourcecodepro_semibold": "https:\/\/cdn.discordapp.com\/attachments\/909244240729632778\/922336625328025660\/KoPubBatang-Regular.ttf"
+    },
+    "simple_colors": {
+        "background": 1258291200,
+        "background_secondary": 843809199,
+        "accent": -11828817,
+        "active_channel": -11828817,
+        "mention_highlight": -1354006097,
+        "input_background": -1337228881,
+        "statusbar": -884244049
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -2673622,
+        "primary_dark_800": 1263239599,
+        "primary_700": -15328990,
+        "link": -11828817,
+        "link_500": -11828817,
+        "primary_dark_300": -4210753,
+        "uikit_settings_item_text_color_dark": -2105377,
+        "brand_new_560": -11828817,
+        "primary_dark_100": -11828817,
+        "uikit_settings_item_text_color_light": -11769738,
+        "primary_dark_360": -4210753,
+        "primary_dark_400": -4210753
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -11769738,
+        "ic_sidebar_notifications_on_dark_24dp": -11769738,
+        "ic_sidebar_pins_on_dark_24dp": -11769738,
+        "ic_sidebar_pins_off_dark_24dp": -11769738,
+        "ic_sidebar_search_24dp": -11769738,
+        "ic_thread": -11769738,
+        "ic_hypesquad_house3_32dp": -11828817,
+        "drawable_button_red": -2673622,
+        "drawable_button_grey": -11769738
+    },
+    "raws": {}
+}
